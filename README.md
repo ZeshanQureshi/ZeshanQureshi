@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @ZeshanQureshi
+- 🗺️ I live in Toronto, Ontatio
+- 🏫 I'm a Mechanical Engineering student at the University of Waterloo
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning HTML/CSS and JavaScript
+- 📫 I can be reached at z22qures@gmail.com
