@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Zeshan
 - 🗺️ I'm from Toronto, Ontario
 - 🏫 I'm a Mechanical Engineering student at the University of Waterloo
-- 💼 I previously worked at TD Bank as a Software Engineering Intern
+- 💼 I'm currently working at Arctic Wolf as a Security Developer Intern
 - 👀 I’m interested in Software Development 
 - 🌱 I’m currently learning about Cybersecurity
 - 📫 I can be contacted at z22qures@gmail.com
