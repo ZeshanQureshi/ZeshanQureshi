@@ -4,4 +4,4 @@
 - 💼 I previously worked at Arctic Wolf Networks as a Security Developer Intern
 - 👀 I’m interested in Software Development 
 - 🌱 I’m currently learning about Programmatic Problem Solving
-- 📫 I can be contacted at z22qures@gmail.com
+- 📫 I can be contacted at z22qures@uwaterloo.ca
