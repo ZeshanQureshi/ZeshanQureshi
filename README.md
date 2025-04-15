@@ -1,6 +1,6 @@
 # About Me
 - 👋 Hi, I’m Zeshan
-- 🗺️ I'm from Canada
+- 🗺️ I'm from Toronto, Canada
 - 👔 I am a Software Engineer
 - 🏫 I studied Mechanical Engineering at the University of Waterloo 
 
