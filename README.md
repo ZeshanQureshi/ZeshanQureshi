@@ -1,7 +1,7 @@
 # About Me
 - 👋 Hi, I’m Zeshan
 - 🗺️ I am from Toronto
-- 👀 I am currently seeking Full-time Software Engineering Opportunities
+- 👀 I am currently seeking Full-time Software Engineering opportunities
 
 # Experience
 - 🔐 **Arctic Wolf Networks** | Software Engineering Intern | May 2024 - Dec 2024
