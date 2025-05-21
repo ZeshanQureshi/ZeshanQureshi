@@ -1,6 +1,7 @@
 # About Me
 - 👋 Hi, I’m Zeshan
 - 🗺️ I am from Toronto
+- 👀 I am currently seeking Full-time Software Engineering Opportunities
 
 # Experience
 - 🔐 **Arctic Wolf Networks** | Software Engineering Intern | May 2024 - Dec 2024
@@ -10,7 +11,7 @@
 - 🚙 **Toyota Motor Manufacturing Canada** | Systems Engineering Intern | May 2021 - Aug 2021
 
 # Education
-- 🏫 **University of Waterloo** | Bachelor's Degree in Mechanical Engineering | Earned April 2025
+- 🎓 **University of Waterloo** | Bachelor's Degree in Mechanical Engineering | Graduated June 2025
 
 # Contact Me
 - 📫 Send me an [Email](mailto:zeshan.qureshi@uwaterloo.ca)
