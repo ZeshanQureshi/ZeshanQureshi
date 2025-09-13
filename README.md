@@ -15,5 +15,5 @@
 
 # Contact Me
 - 📫 Send me an [Email](mailto:zeshan.qureshi@uwaterloo.ca)
-- 🌐 Visit my [Personal Website](https://zeshanqureshi.site/)
+- 🌐 Visit my [Personal Website](https://zeshanqureshi.app/)
 - 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/zeshanq/)
