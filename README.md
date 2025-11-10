@@ -1,7 +1,7 @@
 # About Me
 - 👋 Hi, I’m Zeshan
 - 🗺️ I am from Toronto
-- 👀 I am currently a Software Engineer at Bespoke Metrics Inc
+- 💼 I am currently a Software Engineer at Bespoke Metrics Inc
 
 # Experience
 - ⚙️ **Bespoke Metrics Inc** | Software Engineer | Oct 2025 - Current
