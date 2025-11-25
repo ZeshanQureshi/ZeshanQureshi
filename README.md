@@ -15,5 +15,4 @@
 - 🎓 **University of Waterloo** | Bachelor's Degree in Mechanical Engineering | Graduated June 2025
 
 # Contact Me
-- 📫 Send me an [Email](mailto:zeshan.qureshi@uwaterloo.ca)
 - 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/zeshanq/)
