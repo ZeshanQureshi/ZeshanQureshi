@@ -15,4 +15,4 @@
 - 🎓 **University of Waterloo** | Bachelor's Degree in Mechanical Engineering | Graduated June 2025
 
 # Contact Me
-- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/zeshanq/)
+- 🤝 Connect with me on [LinkedIn](https://www.linkedin.com/in/zeshanq/)
