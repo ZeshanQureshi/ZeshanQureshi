@@ -8,7 +8,6 @@
 - 🔐 **Arctic Wolf Networks** | Software Engineer Intern | May 2024 - Dec 2024
 - 💰 **TD Bank** | Software Engineer Intern | May 2023 - Aug 2023
 - 💻 **AutoVerify** | Software Engineer Intern | May 2022 - Dec 2022
-- 📝 **Caribou Contests** | Software Engineer Intern | Jan 2022 - Apr 2022
 - 🚗 **Toyota Motor Manufacturing Canada** | Systems Design Engineer Intern | May 2021 - Aug 2021
 
 # Education
